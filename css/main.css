@@ -36,6 +36,11 @@ a:hover {
 }
 
 /* specifics */
-#name {
+header#pageHeader #name,header#pageHeader #subtitle {
     text-align: center;
+}
+
+code .keyword_control {
+    color: var(--rorange);
+    animation: glowy 1s infinite;
 }

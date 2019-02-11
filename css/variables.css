@@ -1,0 +1,28 @@
+:root {
+    --red:#FF0000;
+    --rorange: #FF6000;
+    --orange: #FF8000;
+    --yorange: #FFC700;
+    --yellow: #FFFF00;
+    --yG: #60FF00;
+    --yellowGreen: #80FF00;
+    --charteuse: #60FF00;
+    --green: #00FF00;
+    --gb: #00FF60;
+    --seaGreen: #00FF80;
+    --seaBlue: #00FFC7;
+    --cyan: #00FFFF;
+    --cyrx: #00C7FF;
+    --lightBlue: #0080FF;
+    --lightBlue2: #0060FF;
+    --blue: #0000FF;
+    --blurple: #6000FF;
+    --purple: #8000FF;
+    --purgenta: #C700FF;
+    --magenta: #FF00FF;
+    --magenPink: #FF00C7;
+    --pink: #FF0080;
+    --redPink: #FF0060;
+
+    --font-one: font-family: "PT Sans";
+}
