@@ -44,3 +44,11 @@ code .keyword_control {
     color: var(--rorange);
     animation: glowy 1s infinite;
 }
+
+.jumbotron {
+    background-color: #222;
+}
+
+hr {
+    border-color: #CCC;
+}
