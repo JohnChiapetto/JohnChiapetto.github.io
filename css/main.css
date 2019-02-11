@@ -34,3 +34,8 @@ h1,h2,h3,h4,h5,h6,b {
 a:hover {
     animation: glowy 1s infinite;
 }
+
+/* specifics */
+#name {
+    text-align: center;
+}
