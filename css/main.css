@@ -38,7 +38,9 @@ div {
 }
 
 .project {
-
+    height: 30%;
+    border: 1px solid #111;
+    border-radius: 15px;
 }
 .project img {
     width: 90%;
