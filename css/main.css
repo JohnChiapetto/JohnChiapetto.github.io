@@ -56,3 +56,17 @@ div {
     color: #FFF;
     animation: glowy 3s infinite;
 }
+
+.project a {
+    color: #000;
+}
+.project a:hover {
+    color: #06F;
+    animation: glowy 1s infinite;
+    text-decoration: none;
+}
+
+.btn {
+    border: 1px solid #111;
+    
+}
