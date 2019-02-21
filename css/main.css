@@ -2,6 +2,7 @@
 @import"global.css";
 @import"navbar.css";
 @import"header.css";
+@import"header.css";
 @import"about.css";
 @import"projects.css";
 @import"contact.css";
@@ -45,11 +46,6 @@ div {
 .project img {
     width: 90%;
     height: 50%;
-}
-
-.jumbotron {
-    background-color: #111;
-    color: #CCC;
 }
 
 .jumbotron h1 {
