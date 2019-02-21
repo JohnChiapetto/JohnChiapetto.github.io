@@ -1,5 +1,12 @@
 #header-jumbotron {
     border-radius: 0px;
-    background-color: #111;
-    color: #CCC;
+    background-color: var(--lightBlack);
+    color: var(--lightGray);
+    margin-bottom: 0px;
+}
+
+.header-gradblock {
+    background: linear-gradient(var(--lightBlack),white);
+    height: 100px;
+    width: 100%;
 }

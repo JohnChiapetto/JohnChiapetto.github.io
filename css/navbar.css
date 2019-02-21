@@ -1,4 +1,8 @@
 #navbar {
     /* color: #FFF; */
-    background:linear-gradient(#444,#111)
+    background:linear-gradient(var(--darkGray),var(--lightBlack))
+}
+
+#navbar .nav-link:hover {
+    animation: glowy 1s infinite;
 }

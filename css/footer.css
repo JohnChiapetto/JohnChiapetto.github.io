@@ -1,0 +1,11 @@
+#footer .gradblock {
+    background: linear-gradient(white,var(--lightBlack));
+    height: 100px;
+    width: 100%;
+}
+
+#footer .content {
+    background-color: var(--lightBlack);
+    height: 100px;
+    width: 100%;
+}
